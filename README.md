@@ -1,4 +1,6 @@
-## Wren is a small, fast, class-based concurrent scripting language
+## Kestrel is Wren *is a small, fast, class-based concurrent scripting language
+
+Scroll down to plans.
 
 Think Smalltalk in a Lua-sized package with a dash of Erlang and wrapped up in
 a familiar, modern [syntax][].
@@ -56,3 +58,9 @@ involved][contribute]!
 [started]: http://wren.io/getting-started.html
 [browser]: http://ppvk.github.io/wren-nest/
 [contribute]: http://wren.io/contributing.html
+
+Plans
+* the probbaly undoable plan: support Unicode
+* use C++ to compile Wren/Krestel to support Unicode
+* add enums
+* add a BigDecimal and BigInteger library and convert the code using ints and doubles to them
