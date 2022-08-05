@@ -64,3 +64,4 @@ Plans
 * use C++ to compile Wren/Krestel to support Unicode
 * add enums
 * add a BigDecimal and BigInteger library and convert the code using ints and doubles to them
+* orthogonal persistence - that means the whole running VM is frozen and saved to a file, to be able to restart it from there again
